@@ -2,8 +2,8 @@
 <!-- this is comment -->
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.gamutgurus</groupId>
-	<artifactId>gamutkart</artifactId>
+	<groupId>com.cangksolutions</groupId>
+	<artifactId>cangk</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-RELEASE</version>
 
@@ -25,7 +25,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>gamutkart</finalName>
+		<finalName>cangkitsolutions</finalName>
 	</build>
 </project>
 
