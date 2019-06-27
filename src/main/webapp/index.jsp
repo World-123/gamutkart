@@ -27,14 +27,14 @@
 	<div class="container">
 
 		<header>
-			<h1>GamutKart Retail Store . DEVOPS-TRAINING: 9739368768 ...</h1>
+			<h1>Cangk Solutions Pvt Ltd . DEVOPS-TRAINING: 9666664184 (Narendra) ...</h1>
 		</header>
 
 		<div id="tabs">
 			<ul>
-			<li><a href="#tabs-1">Fashion</a></li>
-				<li><a href="#tabs-2">Electronics</a></li>
-				<li><a href="#tabs-3">Groceries</a></li>
+			<li><a href="#tabs-1">Jenkins</a></li>
+				<li><a href="#tabs-2">Docker</a></li>
+				<li><a href="#tabs-3">Ansible</a></li>
 				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
@@ -101,7 +101,7 @@
 					has to choose Chef or Puppet.</p>
 			</div>
 			<div id="tabs-4">
-				<p>Motorola</p>
+				<p>Samsung</p>
 				<p>Apple</p>
 			</div>
 		</div>
@@ -109,7 +109,7 @@
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; gamutgurus software services Pvt. Ltd. </footer>
+		<footer> Copyright &copy; Cangk Solutions Pvt. Ltd. </footer>
 	</div>
 
 </body>
